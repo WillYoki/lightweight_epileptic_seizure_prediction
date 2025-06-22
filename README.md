@@ -17,11 +17,6 @@ This project provides an **end-to-end pipeline** for epileptic seizure predictio
 * **Preprocessing:**
 
   * Seizure segmentation and slicing code is assumed to be completed **(not included here)**.
-  * EEG segments are labeled as:
-
-    * **Positive (1)**: preictal
-    * **Negative (0)**: interictal
-    * **Excluded**: ictal, postictal, undefined (not used for training)
 
 ---
 
