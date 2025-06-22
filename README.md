@@ -39,7 +39,7 @@ This project provides an **end-to-end pipeline** for epileptic seizure predictio
   * Select top **3 / 6 / 9** most informative channels
 * Output:
 
-  * `sorted_channel_*.txt`: Channel index list based on contribution
+  * `sorted_channel_*.npy`: Channel index list based on contribution
 
 #### 3. 🌊 Nonlinear Feature Extraction using Serial-EMD
 
