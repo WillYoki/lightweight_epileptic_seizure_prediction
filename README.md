@@ -86,6 +86,14 @@ Use the MATLAB files in the `Visualizing classification results/` folder:
 
 ---
 
+### 🔍 Automatic Threshold Estimation
+
+To assist seizure prediction threshold determination, you can run:
+
+```bash
+python Prediction/Pred-K-Means.py
+---
+
 ## 🛠 Requirements
 
 Install required dependencies:
