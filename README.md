@@ -98,11 +98,13 @@ To assist seizure prediction threshold determination, you can run:
 
 ```bash
 python Prediction/Pred-K-Means.py
+```
 ---
 
-## 🛠 Requirements
+###  🛠 Requirements
 
 Install required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
