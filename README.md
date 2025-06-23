@@ -1,5 +1,11 @@
 # lightweight_epileptic_seizure_prediction
-RF, lightweight, epileptic seizure prediction
+
+## The complete workflow of lightweight epileptic seizure prediction.
+Four representative scenarios of epileptic seizures and the corresponding segmentation strategies. The yellow segments represent the preictal stage and serve as positive samples during the training phase, while the green segments indicate the interictal stage and are used as negative samples, ensuring temporal consistency in sample selection. The arrows indicate segmentation results derived from supplementary definitions based on the basic staging method.
+![Fig 1 overall workflow](https://github.com/user-attachments/assets/a1f2143c-859d-4f23-8bb8-6da221bc2108)
+
+## Overview of the lightweight prediction system and its deployment on Jetson Nano.
+![总流程图(简)](https://github.com/user-attachments/assets/73e073c5-c741-4e77-baeb-912a1f417e7d)
 
 ---
 
