@@ -19,7 +19,7 @@ This project provides an **end-to-end pipeline** for epileptic seizure predictio
 
 ### 🧠 Pipeline Overview
 
-#### 1. 🔋 Energy-Based Feature Extraction (Online Phase)
+#### 1. 🔋 Power-Based Feature Extraction (Online Phase)
 
 * Script: `online_power_features.py`
 * Purpose:
